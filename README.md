@@ -4,7 +4,7 @@
 
 Welcome to the Room Booking Feature assignment for front-end developer interns! In this task, you will be building a user-friendly room booking system using React and Next.js. The goal is to create a seamless experience with a calendar, time picker, and confirmation functionality.
 
-<img src="images/design.PNG" alt="Room Booking Design" width="500"/>
+<img src="static/design.PNG" alt="Room Booking Design" width="500"/>
 
 
 ## Task Overview
