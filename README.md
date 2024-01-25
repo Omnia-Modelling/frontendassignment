@@ -28,7 +28,7 @@ Welcome to the Room Booking Feature assignment for front-end developer interns! 
 
 - Upon successful validation, show a confirmation popup.
 - Display the selected date, time, and user's email in the popup.
-- Allow users to confirm the booking within the popup.
+- The Whatsapp share button is not mandatory. 
 
 ## Styling and Design
 
@@ -43,7 +43,7 @@ Welcome to the Room Booking Feature assignment for front-end developer interns! 
 
 ### Responsive Design:
 
-- Ensure that the application is responsive for smartphone, tablet, and laptop screens.
+- Ensure that the application is responsive for smartphone and tablet.
 
 ## Submission Guidelines
 
@@ -62,6 +62,6 @@ Welcome to the Room Booking Feature assignment for front-end developer interns! 
   - Focus on basic functionalities; thorough testing is not required for this assignment.
 
 - **Feedback:**
-  - Submit what you have, and we will provide feedback.
+  - Submit what you have, even if its not finished. 
 
 Good luck, and we look forward to seeing your creativity in action!
