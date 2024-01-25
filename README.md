@@ -1,5 +1,3 @@
-# frontendassignment
-
 # Assignment: Room Booking Feature
 
 ## Introduction
@@ -14,6 +12,7 @@ Welcome to the Room Booking Feature assignment for front-end developer interns! 
 ### Calendar and Time Picker:
 
 - Users can only make single-day bookings.
+- Users can only select a maximum of 2 timeslots that are next to eachother. For example: 10:00-11:00 and 11:00-12:00 can both be choosen. While 10:00-11:00 and 12:00-13:00 can not!
 - Implement a calendar where users can select a specific date for their booking.
 - Create a time picker that allows users to choose from predefined time slots.
 - Call an API to check availability for the selected date and time.
@@ -51,7 +50,7 @@ Welcome to the Room Booking Feature assignment for front-end developer interns! 
   - Share your finished assignment by providing a link to your GitHub repository.
 
 - **Deadline:**
-  - The deadline for completing and submitting the assignment is [Put your placeholder date here].
+  - The deadline for completing and submitting the assignment is 9th of Februari 2024.
 
 ## Additional Notes
 
@@ -62,6 +61,6 @@ Welcome to the Room Booking Feature assignment for front-end developer interns! 
   - Focus on basic functionalities; thorough testing is not required for this assignment.
 
 - **Feedback:**
-  - Submit what you have, even if its not finished. 
+  - Submit what you have, even if its not finished or does not look exactly like the design in the image above! 
 
 Good luck, and we look forward to seeing your creativity in action!
