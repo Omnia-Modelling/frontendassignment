@@ -51,7 +51,7 @@ Welcome to the Room Booking Feature assignment for front-end developer interns! 
   - Share your finished assignment by providing a link to your GitHub repository.
 
 - **Deadline:**
-  - The deadline for completing and submitting the assignment is 9th of Februari 2024.
+  - The deadline for completing and submitting the assignment is 13th of Februari 2024.
 
 ## Additional Notes
 
