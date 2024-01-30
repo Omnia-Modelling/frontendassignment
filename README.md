@@ -16,6 +16,7 @@ Welcome to the Room Booking Feature assignment for front-end developer interns! 
 - Implement a calendar where users can select a specific date for their booking.
 - Create a time picker that allows users to choose from predefined time slots.
 - Call an API to check availability for the selected date and time.
+- A mock API has been developed and can be accessed using the following URL: https://rzssj8nj3c.execute-api.eu-central-1.amazonaws.com
 
 ### Email Validation:
 
